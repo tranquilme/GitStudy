@@ -15,6 +15,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         TextView tv = (TextView) findViewById(R.id.tv_hello);
         System.out.println("this is local develop");
-        System.out.println("this is local develop");
+        System.out.println("this is remote develop");
     }
 }
